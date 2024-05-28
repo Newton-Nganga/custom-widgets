@@ -1,0 +1,13 @@
+.body-section,body,grad{
+  /* background-color: black; */
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  z-index: 0;
+  
+}
+.innerbody{
+  position: absolute;
+  z-index: 1;
+}
