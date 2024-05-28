@@ -1,8 +1,25 @@
-# React + Vite
+# Awesome Widgets
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![awesomewidgets](https://github.com/Newton-Nganga/custom-widgets/assets/93589514/a5cd6a02-66cf-4efb-b069-261e7ced1480)
+
+- [Awesome Widgets](https://awesomewidgets.vercel.app/) A collection of custom chat widgets with floating buttons 
+
+My Collection
+1. Chat Widget
+      1. Whatsapp
+      2. Instagram
+      3. Facebook
+      4. x(Twitter)
+      5. LinkedIn
+3. Call Widget
+4. All in one widget
+
+
+
+
+
+Created and maintained by [Newton Nganga](https://github.com/Newton-Nganga) 
+
+
